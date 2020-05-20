@@ -7,6 +7,10 @@ function App() {
     <Router>
       <div>
         <NavTabs/>
+       
+        <Route exact path="/about" component={About} />
+        <Route exact path="/portfolio" component={About} />
+        <Route path="/contact" component={Contact} />
 
       </div>
 
