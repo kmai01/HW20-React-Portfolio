@@ -1,0 +1,84 @@
+.container {
+    background-color: cornflowerblue;
+}
+body {
+    background: url(../images/handmadepaper.png)
+
+ }
+
+ #bio-image{
+     height: 200px;
+     width: 200px;
+     margin: 10px;
+ } 
+
+ .body_container {
+     background-color: lightblue;
+     
+     margin-left: auto;
+     margin-right: auto;
+  
+ }
+ 
+ h1 {
+     
+    background-color:  cornflowerblue;
+    color: #ffffff;
+    padding: 20px;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+ 
+  
+ }
+
+ .navbutton {
+     display: flex;
+     justify-content: space-between;
+     text-align: end;
+     margin: 25px;
+    
+    
+    
+
+ }
+
+ .button-1,.button-2,.button-3 {
+     padding: 10px;
+     color: cornsilk;
+     
+
+ 
+ 
+   
+     
+ }
+
+ 
+ h2{
+    color:black; 
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h3{
+    color:black; 
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+.card-title{
+
+    margin-top: 90%;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    
+    
+}
+
+.footer{
+    text-align: center;
+}
+
+
+
