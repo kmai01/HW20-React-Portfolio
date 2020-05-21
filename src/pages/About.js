@@ -14,7 +14,7 @@ function About() {
 
         <div className="col-sm-12">
         
-            <img id="bio-image" className="img-fluid" src={"Assets/images/IMG_6974p.png"} alt="blank" align="left"/>
+            <img id="bio-image" className="img-fluid" src="Assets/images/IMG_6974p.png" alt="blank" align="left"/>
          
 
 
