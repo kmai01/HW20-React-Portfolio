@@ -1,5 +1,5 @@
 import React from "react";
-
+import bioimage from "../Assets/images/IMG_6974p.png"
 function About() {
   return (
     
@@ -14,7 +14,7 @@ function About() {
 
         <div className="col-sm-12">
         
-            <img id="bio-image" className="img-fluid" src="Assets/images/IMG_6974p.png" alt="blank" align="left"/>
+            <img id="bio-image" className="img-fluid" src={bioimage} alt="blank" align="left"/>
          
 
 
