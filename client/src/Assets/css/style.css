@@ -23,7 +23,7 @@ body {
  h1 {
      
     background-color:  cornflowerblue;
-    color: #ffffff;
+    color: red;
     padding: 20px;
     
     margin-top: 0px;
@@ -57,7 +57,7 @@ body {
 
  
  h2{
-    color:black; 
+    color: black; 
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 

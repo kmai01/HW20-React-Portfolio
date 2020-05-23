@@ -5,6 +5,9 @@ function About() {
     
     
     <div className="body_container">
+     
+     <h1> Khanh Mai</h1>
+
 
     <h3> About Me</h3>
     
